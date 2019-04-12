@@ -1,7 +1,7 @@
 <h2>Sample Powershell scripts for Windows 10 sysprep</h2>
 <h3>Items to integrate:</h3>
 <p><strong>Disable UAC</strong></p>
-<p><span style="text-decoration: line-through;"><strong>Disable Windows Firewall</strong></span></p>
+<p><strong>Disable Windows Firewall</strong></span></p>
 <p><strong>Delete Bloatware</strong></p>
 <p><strong>Unpin all start menu tiles</strong></p>
 <p><strong>Install Google Chrome</strong></p>
